@@ -1,1 +1,1 @@
-rootProject.name = "DomainDrivenDev"
+rootProject.name = "designPattern"
